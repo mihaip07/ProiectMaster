@@ -1,0 +1,18 @@
+﻿@model ProductVM
+
+@{
+    ViewData["Title"] = "Select a type product";
+}
+<div class="col-xs-12 col-sm-4">
+    @Html.DropDownList("ProductTypeId", new SelectList(Model.ProductTypes, "Id", "Name", Model.ProductTypeId), new { @class = "form-control" })
+</div>
+
+
+<div class="row mb-2 mt-2 operationsButtons">
+    <div class="col-md-12">
+        <a href="/ProductsFiltered" class="btn btn-new btn-outline-new font-weight-bold mr-2" data-toggle="tooltip" title="New" data-placement="top">
+            <span class="fa fa-plus-circle">Search</span>
+        </a>
+    </div>
+</div>
+

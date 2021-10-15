@@ -1,0 +1,51 @@
+﻿@model IEnumerable<ProductVM>
+
+@{ ViewData["Title"] = "Products Filtered";
+    var detailsRoute = "/Details/{0}";}
+
+<div class="row mb-2 mt-2 operationsButtons">
+    <div class="col-md-12">
+
+        <div class="col-xs-12 col-sm-4">
+            @Html.DropDownList("ProductTypeId", new SelectList(Model.First().ProductTypes, "Id", "Name", Model.First().ProductTypeId), new { @class = "form-control" })
+        </div>
+
+        <br /><br />
+    </div>
+</div>
+
+
+
+<div class="row">
+
+    @foreach (var product in Model)
+    {
+        if (product.IsAvailable == true)
+        {
+    <div class="col-3">
+        <div class="card">
+            <a href="@string.Format(detailsRoute, product.Id)">
+                <img class="card-img-top" style="height: 360px; width: 253px" src="~/@product.ImagePath" alt="no image" />
+            </a>
+            <div class="card-body">
+                <div>
+                    <h4 class="my-0 font-weight-normal">
+                        <label style="font-size: 80%; color: deepskyblue; font-family: 'Century Gothic'; font-weight: bold; ">@product.Name</label>
+                    </h4>
+                </div>
+                <div class="d-flex justify-content-between align-items-center">
+                    <div class="btn-group">
+                        <label style="font-size: 20px; color: black; font-family: 'Century Gothic'"><b>@product.Price Lei</b></label>
+                    </div>
+                    <a href="@string.Format(detailsRoute, product.Id)" class="btn pull-right btn-outline-info">View Details</a>
+                </div>
+            </div>
+            <br />
+        </div>
+        <br />
+    </div>
+            <br/>
+        }
+    }
+
+</div>

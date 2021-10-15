@@ -1,0 +1,190 @@
+C:\Users\mihai\OneDrive\Desktop\shop\MasterAfaceriElectronice-main\Seminar 3\ProiectMaster\ProiectMaster.Web\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\mihai\OneDrive\Desktop\shop\MasterAfaceriElectronice-main\Seminar 3\ProiectMaster\ProiectMaster.Web\bin\Debug\net5.0\appsettings.json
+C:\Users\mihai\OneDrive\Desktop\shop\MasterAfaceriElectronice-main\Seminar 3\ProiectMaster\ProiectMaster.Web\bin\Debug\net5.0\ProiectMaster.Web.exe
+C:\Users\mihai\OneDrive\Desktop\shop\MasterAfaceriElectronice-main\Seminar 3\ProiectMaster\ProiectMaster.Web\bin\Debug\net5.0\ProiectMaster.Web.deps.json
+C:\Users\mihai\OneDrive\Desktop\shop\MasterAfaceriElectronice-main\Seminar 3\ProiectMaster\ProiectMaster.Web\bin\Debug\net5.0\ProiectMaster.Web.runtimeconfig.json
+C:\Users\mihai\OneDrive\Desktop\shop\MasterAfaceriElectronice-main\Seminar 3\ProiectMaster\ProiectMaster.Web\bin\Debug\net5.0\ProiectMaster.Web.runtimeconfig.dev.json
+C:\Users\mihai\OneDrive\Desktop\shop\MasterAfaceriElectronice-main\Seminar 3\ProiectMaster\ProiectMaster.Web\bin\Debug\net5.0\ProiectMaster.Web.dll
+C:\Users\mihai\OneDrive\Desktop\shop\MasterAfaceriElectronice-main\Seminar 3\ProiectMaster\ProiectMaster.Web\bin\Debug\net5.0\ref\ProiectMaster.Web.dll
+C:\Users\mihai\OneDrive\Desktop\shop\MasterAfaceriElectronice-main\Seminar 3\ProiectMaster\ProiectMaster.Web\bin\Debug\net5.0\ProiectMaster.Web.pdb
+C:\Users\mihai\OneDrive\Desktop\shop\MasterAfaceriElectronice-main\Seminar 3\ProiectMaster\ProiectMaster.Web\bin\Debug\net5.0\ProiectMaster.Web.Views.dll
+C:\Users\mihai\OneDrive\Desktop\shop\MasterAfaceriElectronice-main\Seminar 3\ProiectMaster\ProiectMaster.Web\bin\Debug\net5.0\ProiectMaster.Web.Views.pdb
+C:\Users\mihai\OneDrive\Desktop\shop\MasterAfaceriElectronice-main\Seminar 3\ProiectMaster\ProiectMaster.Web\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\mihai\OneDrive\Desktop\shop\MasterAfaceriElectronice-main\Seminar 3\ProiectMaster\ProiectMaster.Web\bin\Debug\net5.0\Humanizer.dll
+C:\Users\mihai\OneDrive\Desktop\shop\MasterAfaceriElectronice-main\Seminar 3\ProiectMaster\ProiectMaster.Web\bin\Debug\net5.0\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\mihai\OneDrive\Desktop\shop\MasterAfaceriElectronice-main\Seminar 3\ProiectMaster\ProiectMaster.Web\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\mihai\OneDrive\Desktop\shop\MasterAfaceriElectronice-main\Seminar 3\ProiectMaster\ProiectMaster.Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\mihai\OneDrive\Desktop\shop\MasterAfaceriElectronice-main\Seminar 3\ProiectMaster\ProiectMaster.Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\mihai\OneDrive\Desktop\shop\MasterAfaceriElectronice-main\Seminar 3\ProiectMaster\ProiectMaster.Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\mihai\OneDrive\Desktop\shop\MasterAfaceriElectronice-main\Seminar 3\ProiectMaster\ProiectMaster.Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\mihai\OneDrive\Desktop\shop\MasterAfaceriElectronice-main\Seminar 3\ProiectMaster\ProiectMaster.Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\mihai\OneDrive\Desktop\shop\MasterAfaceriElectronice-main\Seminar 3\ProiectMaster\ProiectMaster.Web\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\mihai\OneDrive\Desktop\shop\MasterAfaceriElectronice-main\Seminar 3\ProiectMaster\ProiectMaster.Web\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\mihai\OneDrive\Desktop\shop\MasterAfaceriElectronice-main\Seminar 3\ProiectMaster\ProiectMaster.Web\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\mihai\OneDrive\Desktop\shop\MasterAfaceriElectronice-main\Seminar 3\ProiectMaster\ProiectMaster.Web\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\mihai\OneDrive\Desktop\shop\MasterAfaceriElectronice-main\Seminar 3\ProiectMaster\ProiectMaster.Web\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\mihai\OneDrive\Desktop\shop\MasterAfaceriElectronice-main\Seminar 3\ProiectMaster\ProiectMaster.Web\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\mihai\OneDrive\Desktop\shop\MasterAfaceriElectronice-main\Seminar 3\ProiectMaster\ProiectMaster.Web\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\mihai\OneDrive\Desktop\shop\MasterAfaceriElectronice-main\Seminar 3\ProiectMaster\ProiectMaster.Web\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\mihai\OneDrive\Desktop\shop\MasterAfaceriElectronice-main\Seminar 3\ProiectMaster\ProiectMaster.Web\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\mihai\OneDrive\Desktop\shop\MasterAfaceriElectronice-main\Seminar 3\ProiectMaster\ProiectMaster.Web\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\mihai\OneDrive\Desktop\shop\MasterAfaceriElectronice-main\Seminar 3\ProiectMaster\ProiectMaster.Web\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\mihai\OneDrive\Desktop\shop\MasterAfaceriElectronice-main\Seminar 3\ProiectMaster\ProiectMaster.Web\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\mihai\OneDrive\Desktop\shop\MasterAfaceriElectronice-main\Seminar 3\ProiectMaster\ProiectMaster.Web\bin\Debug\net5.0\System.IO.Pipelines.dll
+C:\Users\mihai\OneDrive\Desktop\shop\MasterAfaceriElectronice-main\Seminar 3\ProiectMaster\ProiectMaster.Web\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\mihai\OneDrive\Desktop\shop\MasterAfaceriElectronice-main\Seminar 3\ProiectMaster\ProiectMaster.Web\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\mihai\OneDrive\Desktop\shop\MasterAfaceriElectronice-main\Seminar 3\ProiectMaster\ProiectMaster.Web\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\mihai\OneDrive\Desktop\shop\MasterAfaceriElectronice-main\Seminar 3\ProiectMaster\ProiectMaster.Web\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\mihai\OneDrive\Desktop\shop\MasterAfaceriElectronice-main\Seminar 3\ProiectMaster\ProiectMaster.Web\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mihai\OneDrive\Desktop\shop\MasterAfaceriElectronice-main\Seminar 3\ProiectMaster\ProiectMaster.Web\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\mihai\OneDrive\Desktop\shop\MasterAfaceriElectronice-main\Seminar 3\ProiectMaster\ProiectMaster.Web\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mihai\OneDrive\Desktop\shop\MasterAfaceriElectronice-main\Seminar 3\ProiectMaster\ProiectMaster.Web\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\mihai\OneDrive\Desktop\shop\MasterAfaceriElectronice-main\Seminar 3\ProiectMaster\ProiectMaster.Web\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mihai\OneDrive\Desktop\shop\MasterAfaceriElectronice-main\Seminar 3\ProiectMaster\ProiectMaster.Web\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\mihai\OneDrive\Desktop\shop\MasterAfaceriElectronice-main\Seminar 3\ProiectMaster\ProiectMaster.Web\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mihai\OneDrive\Desktop\shop\MasterAfaceriElectronice-main\Seminar 3\ProiectMaster\ProiectMaster.Web\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\mihai\OneDrive\Desktop\shop\MasterAfaceriElectronice-main\Seminar 3\ProiectMaster\ProiectMaster.Web\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\mihai\OneDrive\Desktop\shop\MasterAfaceriElectronice-main\Seminar 3\ProiectMaster\ProiectMaster.Web\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\mihai\OneDrive\Desktop\shop\MasterAfaceriElectronice-main\Seminar 3\ProiectMaster\ProiectMaster.Web\bin\Debug\net5.0\ProiectMaster.DataAccess.dll
+C:\Users\mihai\OneDrive\Desktop\shop\MasterAfaceriElectronice-main\Seminar 3\ProiectMaster\ProiectMaster.Web\bin\Debug\net5.0\ProiectMaster.Models.dll
+C:\Users\mihai\OneDrive\Desktop\shop\MasterAfaceriElectronice-main\Seminar 3\ProiectMaster\ProiectMaster.Web\bin\Debug\net5.0\ProiectMaster.Services.dll
+C:\Users\mihai\OneDrive\Desktop\shop\MasterAfaceriElectronice-main\Seminar 3\ProiectMaster\ProiectMaster.Web\bin\Debug\net5.0\ProiectMaster.Models.pdb
+C:\Users\mihai\OneDrive\Desktop\shop\MasterAfaceriElectronice-main\Seminar 3\ProiectMaster\ProiectMaster.Web\bin\Debug\net5.0\ProiectMaster.Services.pdb
+C:\Users\mihai\OneDrive\Desktop\shop\MasterAfaceriElectronice-main\Seminar 3\ProiectMaster\ProiectMaster.Web\bin\Debug\net5.0\ProiectMaster.DataAccess.pdb
+C:\Users\mihai\OneDrive\Desktop\shop\MasterAfaceriElectronice-main\Seminar 3\ProiectMaster\ProiectMaster.Web\obj\Debug\net5.0\ProiectMaster.Web.csproj.AssemblyReference.cache
+C:\Users\mihai\OneDrive\Desktop\shop\MasterAfaceriElectronice-main\Seminar 3\ProiectMaster\ProiectMaster.Web\obj\Debug\net5.0\ProiectMaster.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mihai\OneDrive\Desktop\shop\MasterAfaceriElectronice-main\Seminar 3\ProiectMaster\ProiectMaster.Web\obj\Debug\net5.0\ProiectMaster.Web.AssemblyInfoInputs.cache
+C:\Users\mihai\OneDrive\Desktop\shop\MasterAfaceriElectronice-main\Seminar 3\ProiectMaster\ProiectMaster.Web\obj\Debug\net5.0\ProiectMaster.Web.AssemblyInfo.cs
+C:\Users\mihai\OneDrive\Desktop\shop\MasterAfaceriElectronice-main\Seminar 3\ProiectMaster\ProiectMaster.Web\obj\Debug\net5.0\ProiectMaster.Web.csproj.CoreCompileInputs.cache
+C:\Users\mihai\OneDrive\Desktop\shop\MasterAfaceriElectronice-main\Seminar 3\ProiectMaster\ProiectMaster.Web\obj\Debug\net5.0\ProiectMaster.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mihai\OneDrive\Desktop\shop\MasterAfaceriElectronice-main\Seminar 3\ProiectMaster\ProiectMaster.Web\obj\Debug\net5.0\ProiectMaster.Web.RazorAssemblyInfo.cache
+C:\Users\mihai\OneDrive\Desktop\shop\MasterAfaceriElectronice-main\Seminar 3\ProiectMaster\ProiectMaster.Web\obj\Debug\net5.0\ProiectMaster.Web.RazorAssemblyInfo.cs
+C:\Users\mihai\OneDrive\Desktop\shop\MasterAfaceriElectronice-main\Seminar 3\ProiectMaster\ProiectMaster.Web\obj\Debug\net5.0\staticwebassets\ProiectMaster.Web.StaticWebAssets.Manifest.cache
+C:\Users\mihai\OneDrive\Desktop\shop\MasterAfaceriElectronice-main\Seminar 3\ProiectMaster\ProiectMaster.Web\obj\Debug\net5.0\staticwebassets\ProiectMaster.Web.StaticWebAssets.xml
+C:\Users\mihai\OneDrive\Desktop\shop\MasterAfaceriElectronice-main\Seminar 3\ProiectMaster\ProiectMaster.Web\obj\Debug\net5.0\scopedcss\bundle\ProiectMaster.Web.styles.css
+C:\Users\mihai\OneDrive\Desktop\shop\MasterAfaceriElectronice-main\Seminar 3\ProiectMaster\ProiectMaster.Web\obj\Debug\net5.0\ProiectMaster.Web.TagHelpers.input.cache
+C:\Users\mihai\OneDrive\Desktop\shop\MasterAfaceriElectronice-main\Seminar 3\ProiectMaster\ProiectMaster.Web\obj\Debug\net5.0\ProiectMaster.Web.TagHelpers.output.cache
+C:\Users\mihai\OneDrive\Desktop\shop\MasterAfaceriElectronice-main\Seminar 3\ProiectMaster\ProiectMaster.Web\obj\Debug\net5.0\ProiectMaster.Web.RazorCoreGenerate.cache
+C:\Users\mihai\OneDrive\Desktop\shop\MasterAfaceriElectronice-main\Seminar 3\ProiectMaster\ProiectMaster.Web\obj\Debug\net5.0\Razor\Views\Home\Details.cshtml.g.cs
+C:\Users\mihai\OneDrive\Desktop\shop\MasterAfaceriElectronice-main\Seminar 3\ProiectMaster\ProiectMaster.Web\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\mihai\OneDrive\Desktop\shop\MasterAfaceriElectronice-main\Seminar 3\ProiectMaster\ProiectMaster.Web\obj\Debug\net5.0\Razor\Views\ProductType\Edit.cshtml.g.cs
+C:\Users\mihai\OneDrive\Desktop\shop\MasterAfaceriElectronice-main\Seminar 3\ProiectMaster\ProiectMaster.Web\obj\Debug\net5.0\Razor\Views\ProductType\Index.cshtml.g.cs
+C:\Users\mihai\OneDrive\Desktop\shop\MasterAfaceriElectronice-main\Seminar 3\ProiectMaster\ProiectMaster.Web\obj\Debug\net5.0\Razor\Views\ProductType\New.cshtml.g.cs
+C:\Users\mihai\OneDrive\Desktop\shop\MasterAfaceriElectronice-main\Seminar 3\ProiectMaster\ProiectMaster.Web\obj\Debug\net5.0\Razor\Views\Product\Edit.cshtml.g.cs
+C:\Users\mihai\OneDrive\Desktop\shop\MasterAfaceriElectronice-main\Seminar 3\ProiectMaster\ProiectMaster.Web\obj\Debug\net5.0\Razor\Views\Product\Index.cshtml.g.cs
+C:\Users\mihai\OneDrive\Desktop\shop\MasterAfaceriElectronice-main\Seminar 3\ProiectMaster\ProiectMaster.Web\obj\Debug\net5.0\Razor\Views\Product\New.cshtml.g.cs
+C:\Users\mihai\OneDrive\Desktop\shop\MasterAfaceriElectronice-main\Seminar 3\ProiectMaster\ProiectMaster.Web\obj\Debug\net5.0\Razor\Views\Shared\Components\_CancelSaveBtn.cshtml.g.cs
+C:\Users\mihai\OneDrive\Desktop\shop\MasterAfaceriElectronice-main\Seminar 3\ProiectMaster\ProiectMaster.Web\obj\Debug\net5.0\Razor\Views\Shared\Components\_Product.cshtml.g.cs
+C:\Users\mihai\OneDrive\Desktop\shop\MasterAfaceriElectronice-main\Seminar 3\ProiectMaster\ProiectMaster.Web\obj\Debug\net5.0\Razor\Views\Shared\Components\_ProductType.cshtml.g.cs
+C:\Users\mihai\OneDrive\Desktop\shop\MasterAfaceriElectronice-main\Seminar 3\ProiectMaster\ProiectMaster.Web\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\mihai\OneDrive\Desktop\shop\MasterAfaceriElectronice-main\Seminar 3\ProiectMaster\ProiectMaster.Web\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\mihai\OneDrive\Desktop\shop\MasterAfaceriElectronice-main\Seminar 3\ProiectMaster\ProiectMaster.Web\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\mihai\OneDrive\Desktop\shop\MasterAfaceriElectronice-main\Seminar 3\ProiectMaster\ProiectMaster.Web\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\mihai\OneDrive\Desktop\shop\MasterAfaceriElectronice-main\Seminar 3\ProiectMaster\ProiectMaster.Web\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\mihai\OneDrive\Desktop\shop\MasterAfaceriElectronice-main\Seminar 3\ProiectMaster\ProiectMaster.Web\obj\Debug\net5.0\ProiectMaster.Web.RazorTargetAssemblyInfo.cache
+C:\Users\mihai\OneDrive\Desktop\shop\MasterAfaceriElectronice-main\Seminar 3\ProiectMaster\ProiectMaster.Web\obj\Debug\net5.0\ProiectMaster.Web.RazorTargetAssemblyInfo.cs
+C:\Users\mihai\OneDrive\Desktop\shop\MasterAfaceriElectronice-main\Seminar 3\ProiectMaster\ProiectMaster.Web\obj\Debug\net5.0\ProiectMaster.Web.Views.pdb
+C:\Users\mihai\OneDrive\Desktop\shop\MasterAfaceriElectronice-main\Seminar 3\ProiectMaster\ProiectMaster.Web\obj\Debug\net5.0\ProiectMaster.Web.csproj.CopyComplete
+C:\Users\mihai\OneDrive\Desktop\shop\MasterAfaceriElectronice-main\Seminar 3\ProiectMaster\ProiectMaster.Web\obj\Debug\net5.0\ProiectMaster.Web.dll
+C:\Users\mihai\OneDrive\Desktop\shop\MasterAfaceriElectronice-main\Seminar 3\ProiectMaster\ProiectMaster.Web\obj\Debug\net5.0\ref\ProiectMaster.Web.dll
+C:\Users\mihai\OneDrive\Desktop\shop\MasterAfaceriElectronice-main\Seminar 3\ProiectMaster\ProiectMaster.Web\obj\Debug\net5.0\ProiectMaster.Web.pdb
+C:\Users\mihai\OneDrive\Desktop\shop\MasterAfaceriElectronice-main\Seminar 3\ProiectMaster\ProiectMaster.Web\obj\Debug\net5.0\ProiectMaster.Web.genruntimeconfig.cache
+C:\Users\mihai\OneDrive\Desktop\shop\MasterAfaceriElectronice-main\Seminar 3\ProiectMaster\ProiectMaster.Web\obj\Debug\net5.0\Razor\Views\Shared\Components\_ProductsFiltered.cshtml.g.cs
+C:\Users\mihai\OneDrive\Desktop\shop\MasterAfaceriElectronice-main\Seminar 3\ProiectMaster\ProiectMaster.Web\obj\Debug\net5.0\Razor\Views\ProductsFiltered\Edit.cshtml.g.cs
+C:\Users\mihai\OneDrive\Desktop\shop\MasterAfaceriElectronice-main\Seminar 3\ProiectMaster\ProiectMaster.Web\obj\Debug\net5.0\Razor\Views\ProductsFiltered\Index.cshtml.g.cs
+C:\Users\mihai\OneDrive\Desktop\shop\MasterAfaceriElectronice-main\Seminar 3\ProiectMaster\ProiectMaster.Web\obj\Debug\net5.0\Razor\Views\ProductsFiltered\New.cshtml.g.cs
+C:\Users\mihai\OneDrive\Desktop\facultate\ProiectMaster\ProiectMaster.Web\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\mihai\OneDrive\Desktop\facultate\ProiectMaster\ProiectMaster.Web\bin\Debug\net5.0\appsettings.json
+C:\Users\mihai\OneDrive\Desktop\facultate\ProiectMaster\ProiectMaster.Web\bin\Debug\net5.0\ProiectMaster.Web.exe
+C:\Users\mihai\OneDrive\Desktop\facultate\ProiectMaster\ProiectMaster.Web\bin\Debug\net5.0\ProiectMaster.Web.deps.json
+C:\Users\mihai\OneDrive\Desktop\facultate\ProiectMaster\ProiectMaster.Web\bin\Debug\net5.0\ProiectMaster.Web.runtimeconfig.json
+C:\Users\mihai\OneDrive\Desktop\facultate\ProiectMaster\ProiectMaster.Web\bin\Debug\net5.0\ProiectMaster.Web.runtimeconfig.dev.json
+C:\Users\mihai\OneDrive\Desktop\facultate\ProiectMaster\ProiectMaster.Web\bin\Debug\net5.0\ProiectMaster.Web.dll
+C:\Users\mihai\OneDrive\Desktop\facultate\ProiectMaster\ProiectMaster.Web\bin\Debug\net5.0\ref\ProiectMaster.Web.dll
+C:\Users\mihai\OneDrive\Desktop\facultate\ProiectMaster\ProiectMaster.Web\bin\Debug\net5.0\ProiectMaster.Web.pdb
+C:\Users\mihai\OneDrive\Desktop\facultate\ProiectMaster\ProiectMaster.Web\bin\Debug\net5.0\ProiectMaster.Web.Views.dll
+C:\Users\mihai\OneDrive\Desktop\facultate\ProiectMaster\ProiectMaster.Web\bin\Debug\net5.0\ProiectMaster.Web.Views.pdb
+C:\Users\mihai\OneDrive\Desktop\facultate\ProiectMaster\ProiectMaster.Web\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\mihai\OneDrive\Desktop\facultate\ProiectMaster\ProiectMaster.Web\bin\Debug\net5.0\Humanizer.dll
+C:\Users\mihai\OneDrive\Desktop\facultate\ProiectMaster\ProiectMaster.Web\bin\Debug\net5.0\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\mihai\OneDrive\Desktop\facultate\ProiectMaster\ProiectMaster.Web\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\mihai\OneDrive\Desktop\facultate\ProiectMaster\ProiectMaster.Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\mihai\OneDrive\Desktop\facultate\ProiectMaster\ProiectMaster.Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\mihai\OneDrive\Desktop\facultate\ProiectMaster\ProiectMaster.Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\mihai\OneDrive\Desktop\facultate\ProiectMaster\ProiectMaster.Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\mihai\OneDrive\Desktop\facultate\ProiectMaster\ProiectMaster.Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\mihai\OneDrive\Desktop\facultate\ProiectMaster\ProiectMaster.Web\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\mihai\OneDrive\Desktop\facultate\ProiectMaster\ProiectMaster.Web\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\mihai\OneDrive\Desktop\facultate\ProiectMaster\ProiectMaster.Web\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\mihai\OneDrive\Desktop\facultate\ProiectMaster\ProiectMaster.Web\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\mihai\OneDrive\Desktop\facultate\ProiectMaster\ProiectMaster.Web\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\mihai\OneDrive\Desktop\facultate\ProiectMaster\ProiectMaster.Web\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\mihai\OneDrive\Desktop\facultate\ProiectMaster\ProiectMaster.Web\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\mihai\OneDrive\Desktop\facultate\ProiectMaster\ProiectMaster.Web\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\mihai\OneDrive\Desktop\facultate\ProiectMaster\ProiectMaster.Web\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\mihai\OneDrive\Desktop\facultate\ProiectMaster\ProiectMaster.Web\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\mihai\OneDrive\Desktop\facultate\ProiectMaster\ProiectMaster.Web\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\mihai\OneDrive\Desktop\facultate\ProiectMaster\ProiectMaster.Web\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\mihai\OneDrive\Desktop\facultate\ProiectMaster\ProiectMaster.Web\bin\Debug\net5.0\System.IO.Pipelines.dll
+C:\Users\mihai\OneDrive\Desktop\facultate\ProiectMaster\ProiectMaster.Web\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\mihai\OneDrive\Desktop\facultate\ProiectMaster\ProiectMaster.Web\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\mihai\OneDrive\Desktop\facultate\ProiectMaster\ProiectMaster.Web\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\mihai\OneDrive\Desktop\facultate\ProiectMaster\ProiectMaster.Web\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\mihai\OneDrive\Desktop\facultate\ProiectMaster\ProiectMaster.Web\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mihai\OneDrive\Desktop\facultate\ProiectMaster\ProiectMaster.Web\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\mihai\OneDrive\Desktop\facultate\ProiectMaster\ProiectMaster.Web\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mihai\OneDrive\Desktop\facultate\ProiectMaster\ProiectMaster.Web\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\mihai\OneDrive\Desktop\facultate\ProiectMaster\ProiectMaster.Web\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mihai\OneDrive\Desktop\facultate\ProiectMaster\ProiectMaster.Web\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\mihai\OneDrive\Desktop\facultate\ProiectMaster\ProiectMaster.Web\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mihai\OneDrive\Desktop\facultate\ProiectMaster\ProiectMaster.Web\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\mihai\OneDrive\Desktop\facultate\ProiectMaster\ProiectMaster.Web\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\mihai\OneDrive\Desktop\facultate\ProiectMaster\ProiectMaster.Web\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\mihai\OneDrive\Desktop\facultate\ProiectMaster\ProiectMaster.Web\bin\Debug\net5.0\ProiectMaster.DataAccess.dll
+C:\Users\mihai\OneDrive\Desktop\facultate\ProiectMaster\ProiectMaster.Web\bin\Debug\net5.0\ProiectMaster.Models.dll
+C:\Users\mihai\OneDrive\Desktop\facultate\ProiectMaster\ProiectMaster.Web\bin\Debug\net5.0\ProiectMaster.Services.dll
+C:\Users\mihai\OneDrive\Desktop\facultate\ProiectMaster\ProiectMaster.Web\bin\Debug\net5.0\ProiectMaster.Models.pdb
+C:\Users\mihai\OneDrive\Desktop\facultate\ProiectMaster\ProiectMaster.Web\bin\Debug\net5.0\ProiectMaster.Services.pdb
+C:\Users\mihai\OneDrive\Desktop\facultate\ProiectMaster\ProiectMaster.Web\bin\Debug\net5.0\ProiectMaster.DataAccess.pdb
+C:\Users\mihai\OneDrive\Desktop\facultate\ProiectMaster\ProiectMaster.Web\obj\Debug\net5.0\ProiectMaster.Web.csproj.AssemblyReference.cache
+C:\Users\mihai\OneDrive\Desktop\facultate\ProiectMaster\ProiectMaster.Web\obj\Debug\net5.0\ProiectMaster.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mihai\OneDrive\Desktop\facultate\ProiectMaster\ProiectMaster.Web\obj\Debug\net5.0\ProiectMaster.Web.AssemblyInfoInputs.cache
+C:\Users\mihai\OneDrive\Desktop\facultate\ProiectMaster\ProiectMaster.Web\obj\Debug\net5.0\ProiectMaster.Web.AssemblyInfo.cs
+C:\Users\mihai\OneDrive\Desktop\facultate\ProiectMaster\ProiectMaster.Web\obj\Debug\net5.0\ProiectMaster.Web.csproj.CoreCompileInputs.cache
+C:\Users\mihai\OneDrive\Desktop\facultate\ProiectMaster\ProiectMaster.Web\obj\Debug\net5.0\ProiectMaster.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mihai\OneDrive\Desktop\facultate\ProiectMaster\ProiectMaster.Web\obj\Debug\net5.0\ProiectMaster.Web.RazorAssemblyInfo.cache
+C:\Users\mihai\OneDrive\Desktop\facultate\ProiectMaster\ProiectMaster.Web\obj\Debug\net5.0\ProiectMaster.Web.RazorAssemblyInfo.cs
+C:\Users\mihai\OneDrive\Desktop\facultate\ProiectMaster\ProiectMaster.Web\obj\Debug\net5.0\staticwebassets\ProiectMaster.Web.StaticWebAssets.Manifest.cache
+C:\Users\mihai\OneDrive\Desktop\facultate\ProiectMaster\ProiectMaster.Web\obj\Debug\net5.0\staticwebassets\ProiectMaster.Web.StaticWebAssets.xml
+C:\Users\mihai\OneDrive\Desktop\facultate\ProiectMaster\ProiectMaster.Web\obj\Debug\net5.0\scopedcss\bundle\ProiectMaster.Web.styles.css
+C:\Users\mihai\OneDrive\Desktop\facultate\ProiectMaster\ProiectMaster.Web\obj\Debug\net5.0\ProiectMaster.Web.TagHelpers.input.cache
+C:\Users\mihai\OneDrive\Desktop\facultate\ProiectMaster\ProiectMaster.Web\obj\Debug\net5.0\ProiectMaster.Web.TagHelpers.output.cache
+C:\Users\mihai\OneDrive\Desktop\facultate\ProiectMaster\ProiectMaster.Web\obj\Debug\net5.0\ProiectMaster.Web.RazorCoreGenerate.cache
+C:\Users\mihai\OneDrive\Desktop\facultate\ProiectMaster\ProiectMaster.Web\obj\Debug\net5.0\Razor\Views\Home\Details.cshtml.g.cs
+C:\Users\mihai\OneDrive\Desktop\facultate\ProiectMaster\ProiectMaster.Web\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\mihai\OneDrive\Desktop\facultate\ProiectMaster\ProiectMaster.Web\obj\Debug\net5.0\Razor\Views\ProductsFiltered\Edit.cshtml.g.cs
+C:\Users\mihai\OneDrive\Desktop\facultate\ProiectMaster\ProiectMaster.Web\obj\Debug\net5.0\Razor\Views\ProductsFiltered\Index.cshtml.g.cs
+C:\Users\mihai\OneDrive\Desktop\facultate\ProiectMaster\ProiectMaster.Web\obj\Debug\net5.0\Razor\Views\ProductsFiltered\New.cshtml.g.cs
+C:\Users\mihai\OneDrive\Desktop\facultate\ProiectMaster\ProiectMaster.Web\obj\Debug\net5.0\Razor\Views\ProductType\Edit.cshtml.g.cs
+C:\Users\mihai\OneDrive\Desktop\facultate\ProiectMaster\ProiectMaster.Web\obj\Debug\net5.0\Razor\Views\ProductType\Index.cshtml.g.cs
+C:\Users\mihai\OneDrive\Desktop\facultate\ProiectMaster\ProiectMaster.Web\obj\Debug\net5.0\Razor\Views\ProductType\New.cshtml.g.cs
+C:\Users\mihai\OneDrive\Desktop\facultate\ProiectMaster\ProiectMaster.Web\obj\Debug\net5.0\Razor\Views\Product\Edit.cshtml.g.cs
+C:\Users\mihai\OneDrive\Desktop\facultate\ProiectMaster\ProiectMaster.Web\obj\Debug\net5.0\Razor\Views\Product\Index.cshtml.g.cs
+C:\Users\mihai\OneDrive\Desktop\facultate\ProiectMaster\ProiectMaster.Web\obj\Debug\net5.0\Razor\Views\Product\New.cshtml.g.cs
+C:\Users\mihai\OneDrive\Desktop\facultate\ProiectMaster\ProiectMaster.Web\obj\Debug\net5.0\Razor\Views\Shared\Components\_CancelSaveBtn.cshtml.g.cs
+C:\Users\mihai\OneDrive\Desktop\facultate\ProiectMaster\ProiectMaster.Web\obj\Debug\net5.0\Razor\Views\Shared\Components\_Product.cshtml.g.cs
+C:\Users\mihai\OneDrive\Desktop\facultate\ProiectMaster\ProiectMaster.Web\obj\Debug\net5.0\Razor\Views\Shared\Components\_ProductsFiltered.cshtml.g.cs
+C:\Users\mihai\OneDrive\Desktop\facultate\ProiectMaster\ProiectMaster.Web\obj\Debug\net5.0\Razor\Views\Shared\Components\_ProductType.cshtml.g.cs
+C:\Users\mihai\OneDrive\Desktop\facultate\ProiectMaster\ProiectMaster.Web\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\mihai\OneDrive\Desktop\facultate\ProiectMaster\ProiectMaster.Web\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\mihai\OneDrive\Desktop\facultate\ProiectMaster\ProiectMaster.Web\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\mihai\OneDrive\Desktop\facultate\ProiectMaster\ProiectMaster.Web\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\mihai\OneDrive\Desktop\facultate\ProiectMaster\ProiectMaster.Web\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\mihai\OneDrive\Desktop\facultate\ProiectMaster\ProiectMaster.Web\obj\Debug\net5.0\ProiectMaster.Web.RazorTargetAssemblyInfo.cache
+C:\Users\mihai\OneDrive\Desktop\facultate\ProiectMaster\ProiectMaster.Web\obj\Debug\net5.0\ProiectMaster.Web.RazorTargetAssemblyInfo.cs
+C:\Users\mihai\OneDrive\Desktop\facultate\ProiectMaster\ProiectMaster.Web\obj\Debug\net5.0\ProiectMaster.Web.Views.pdb
+C:\Users\mihai\OneDrive\Desktop\facultate\ProiectMaster\ProiectMaster.Web\obj\Debug\net5.0\ProiectMaster.Web.csproj.CopyComplete
+C:\Users\mihai\OneDrive\Desktop\facultate\ProiectMaster\ProiectMaster.Web\obj\Debug\net5.0\ProiectMaster.Web.dll
+C:\Users\mihai\OneDrive\Desktop\facultate\ProiectMaster\ProiectMaster.Web\obj\Debug\net5.0\ref\ProiectMaster.Web.dll
+C:\Users\mihai\OneDrive\Desktop\facultate\ProiectMaster\ProiectMaster.Web\obj\Debug\net5.0\ProiectMaster.Web.pdb
+C:\Users\mihai\OneDrive\Desktop\facultate\ProiectMaster\ProiectMaster.Web\obj\Debug\net5.0\ProiectMaster.Web.genruntimeconfig.cache

@@ -1,0 +1,34 @@
+C:\Users\mihai\OneDrive\Desktop\shop\MasterAfaceriElectronice-main\Seminar 3\ProiectMaster\ProiectMaster.Services\bin\Debug\net5.0\ProiectMaster.Services.deps.json
+C:\Users\mihai\OneDrive\Desktop\shop\MasterAfaceriElectronice-main\Seminar 3\ProiectMaster\ProiectMaster.Services\bin\Debug\net5.0\ProiectMaster.Services.dll
+C:\Users\mihai\OneDrive\Desktop\shop\MasterAfaceriElectronice-main\Seminar 3\ProiectMaster\ProiectMaster.Services\bin\Debug\net5.0\ref\ProiectMaster.Services.dll
+C:\Users\mihai\OneDrive\Desktop\shop\MasterAfaceriElectronice-main\Seminar 3\ProiectMaster\ProiectMaster.Services\bin\Debug\net5.0\ProiectMaster.Services.pdb
+C:\Users\mihai\OneDrive\Desktop\shop\MasterAfaceriElectronice-main\Seminar 3\ProiectMaster\ProiectMaster.Services\bin\Debug\net5.0\ProiectMaster.DataAccess.dll
+C:\Users\mihai\OneDrive\Desktop\shop\MasterAfaceriElectronice-main\Seminar 3\ProiectMaster\ProiectMaster.Services\bin\Debug\net5.0\ProiectMaster.Models.dll
+C:\Users\mihai\OneDrive\Desktop\shop\MasterAfaceriElectronice-main\Seminar 3\ProiectMaster\ProiectMaster.Services\bin\Debug\net5.0\ProiectMaster.DataAccess.pdb
+C:\Users\mihai\OneDrive\Desktop\shop\MasterAfaceriElectronice-main\Seminar 3\ProiectMaster\ProiectMaster.Services\bin\Debug\net5.0\ProiectMaster.Models.pdb
+C:\Users\mihai\OneDrive\Desktop\shop\MasterAfaceriElectronice-main\Seminar 3\ProiectMaster\ProiectMaster.Services\obj\Debug\net5.0\ProiectMaster.Services.csproj.AssemblyReference.cache
+C:\Users\mihai\OneDrive\Desktop\shop\MasterAfaceriElectronice-main\Seminar 3\ProiectMaster\ProiectMaster.Services\obj\Debug\net5.0\ProiectMaster.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mihai\OneDrive\Desktop\shop\MasterAfaceriElectronice-main\Seminar 3\ProiectMaster\ProiectMaster.Services\obj\Debug\net5.0\ProiectMaster.Services.AssemblyInfoInputs.cache
+C:\Users\mihai\OneDrive\Desktop\shop\MasterAfaceriElectronice-main\Seminar 3\ProiectMaster\ProiectMaster.Services\obj\Debug\net5.0\ProiectMaster.Services.AssemblyInfo.cs
+C:\Users\mihai\OneDrive\Desktop\shop\MasterAfaceriElectronice-main\Seminar 3\ProiectMaster\ProiectMaster.Services\obj\Debug\net5.0\ProiectMaster.Services.csproj.CoreCompileInputs.cache
+C:\Users\mihai\OneDrive\Desktop\shop\MasterAfaceriElectronice-main\Seminar 3\ProiectMaster\ProiectMaster.Services\obj\Debug\net5.0\ProiectMaster.Services.dll
+C:\Users\mihai\OneDrive\Desktop\shop\MasterAfaceriElectronice-main\Seminar 3\ProiectMaster\ProiectMaster.Services\obj\Debug\net5.0\ref\ProiectMaster.Services.dll
+C:\Users\mihai\OneDrive\Desktop\shop\MasterAfaceriElectronice-main\Seminar 3\ProiectMaster\ProiectMaster.Services\obj\Debug\net5.0\ProiectMaster.Services.pdb
+C:\Users\mihai\OneDrive\Desktop\shop\MasterAfaceriElectronice-main\Seminar 3\ProiectMaster\ProiectMaster.Services\obj\Debug\net5.0\ProiectMaster.Services.csproj.CopyComplete
+C:\Users\mihai\OneDrive\Desktop\facultate\ProiectMaster\ProiectMaster.Services\bin\Debug\net5.0\ProiectMaster.Services.deps.json
+C:\Users\mihai\OneDrive\Desktop\facultate\ProiectMaster\ProiectMaster.Services\bin\Debug\net5.0\ProiectMaster.Services.dll
+C:\Users\mihai\OneDrive\Desktop\facultate\ProiectMaster\ProiectMaster.Services\bin\Debug\net5.0\ref\ProiectMaster.Services.dll
+C:\Users\mihai\OneDrive\Desktop\facultate\ProiectMaster\ProiectMaster.Services\bin\Debug\net5.0\ProiectMaster.Services.pdb
+C:\Users\mihai\OneDrive\Desktop\facultate\ProiectMaster\ProiectMaster.Services\bin\Debug\net5.0\ProiectMaster.DataAccess.dll
+C:\Users\mihai\OneDrive\Desktop\facultate\ProiectMaster\ProiectMaster.Services\bin\Debug\net5.0\ProiectMaster.Models.dll
+C:\Users\mihai\OneDrive\Desktop\facultate\ProiectMaster\ProiectMaster.Services\bin\Debug\net5.0\ProiectMaster.DataAccess.pdb
+C:\Users\mihai\OneDrive\Desktop\facultate\ProiectMaster\ProiectMaster.Services\bin\Debug\net5.0\ProiectMaster.Models.pdb
+C:\Users\mihai\OneDrive\Desktop\facultate\ProiectMaster\ProiectMaster.Services\obj\Debug\net5.0\ProiectMaster.Services.csproj.AssemblyReference.cache
+C:\Users\mihai\OneDrive\Desktop\facultate\ProiectMaster\ProiectMaster.Services\obj\Debug\net5.0\ProiectMaster.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mihai\OneDrive\Desktop\facultate\ProiectMaster\ProiectMaster.Services\obj\Debug\net5.0\ProiectMaster.Services.AssemblyInfoInputs.cache
+C:\Users\mihai\OneDrive\Desktop\facultate\ProiectMaster\ProiectMaster.Services\obj\Debug\net5.0\ProiectMaster.Services.AssemblyInfo.cs
+C:\Users\mihai\OneDrive\Desktop\facultate\ProiectMaster\ProiectMaster.Services\obj\Debug\net5.0\ProiectMaster.Services.csproj.CoreCompileInputs.cache
+C:\Users\mihai\OneDrive\Desktop\facultate\ProiectMaster\ProiectMaster.Services\obj\Debug\net5.0\ProiectMaster.Services.csproj.CopyComplete
+C:\Users\mihai\OneDrive\Desktop\facultate\ProiectMaster\ProiectMaster.Services\obj\Debug\net5.0\ProiectMaster.Services.dll
+C:\Users\mihai\OneDrive\Desktop\facultate\ProiectMaster\ProiectMaster.Services\obj\Debug\net5.0\ref\ProiectMaster.Services.dll
+C:\Users\mihai\OneDrive\Desktop\facultate\ProiectMaster\ProiectMaster.Services\obj\Debug\net5.0\ProiectMaster.Services.pdb
